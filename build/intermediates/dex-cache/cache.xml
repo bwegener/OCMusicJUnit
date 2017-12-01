@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\5834277e4dd93e71d717fbf4104055ea7db56a82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\classes_12242de1215a62d64cb8c8098b2faaacc0a2c71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_3d133230403349f8d2614aa408ad719d764399ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_36b6bb27215f0742c77aa6cb9d4dd3325be297e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\92ffb2af78c374a9d631e1e24bcdb7aff5db16f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\classes_e58925b573d3bfd96669e3b2a4977172b9f02792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\645c89e28d1bfd0040ba6c7fd503b6cde86c0fdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\classes_eab8c5606dac40da8e23ffc3e2adce4bf2930595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\e4f9f768a8ab4ba2fc37fdcbd880126e1a6921a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\classes_47961b52e57e251e610fe3157f86200b93935e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_21b1f8489ae92fc1e28713456727f6c12475c558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\7fe0b7bdc350c7fcd7f37121a7cb5acdde840394\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\classes_10574c2ff4dc84b95875f60ec35ca1c1784711bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\2d80783456eec091de3cb944d381957443a05aac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\classes_f2ac9070deef2c92453fdee3ad8c8c7a63926d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_060107662245a05823ce19cc768b18aa2ec6981d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_0722ba9035c16b3556b16dda332412edd43e12d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\539436b992fa07abf782205b7ff691ff3a7e8661\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\classes_d85fd6d28d6b711fe6c6ef8f84e9c01fc5a47ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\15d0f92bbc2824f4043022055d1ef9b7d0a9e817\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\classes_3ab9f984ec1f00be635430b8e6e5982eab65b49c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\23d919061c30eb73fc8558f0db85477761d5b88c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\classes_a2f5f9fae8b3b2d0d9d6e05e45c340165ccf56ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_8ad31158993860d5af7a6f66f22ecd9c2288e750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\15b8e4c0278fcec940693951fbc53ae97f5381a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\classes_c765f76c208b25fc380c5b48e86e26bd82ef1a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_c4ae37b229cccc9e5a07c14fb1b1b948d1900f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\f59665dc7cc533b2d4be771e021e1486aaf540b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\classes_bbc51ad3367f5efcb1f2ee166ae4cf2ef97a5c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\08619c52e2e47780712c6f07f0bd6f74818cef6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\classes_c2a56f0cd52a501d5f96b5aa04c0198346498b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\736bdbeda1addaf6de1383cb3ce164c658faf518\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\classes_5fd7cf341569625a57de5cc6e7b01a0509794c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_12ba744eb5206fac78db1e2115085fe59595aea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\.android\build-cache\0abbe04c97441c8ed929b17570e695ae44658ac7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\classes_9756c4bbdae5b497b6bca630741f17c35f495aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Apps\Android\gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\bwegener\Downloads\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_0568afc03b5c0b59b51483636dca67e6719dfb69.jar" />
+    </item>
+
+</items>
